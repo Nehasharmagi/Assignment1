@@ -1,71 +1,60 @@
-﻿/* Please see documentation at https://docs.microsoft.com/aspnet/core/client-side/bundling-and-minification
-for details on configuring this project to bundle and minify static web assets. */
-
-a.navbar-brand {
-  white-space: normal;
-  text-align: center;
-  word-break: break-all;
+﻿html{
+	background-color:rgb(181, 48, 90);
 }
 
-/* Provide sufficient contrast against white background */
-a {
-  color: #0366d6;
+h1
+{
+	color: rgb(178, 207, 235);
+	text-align:center;
+	height: 40px;
+	font-size: 1.6em;	
+	text-decoration:underline yellow;
 }
 
-.btn-primary {
-  color: #fff;
-  background-color: #1b6ec2;
-  border-color: #1861ac;
+h2
+{
+	font-family:cursive;
+	color:rgb(80,10,20);
+	padding-left:15px;
 }
 
-.nav-pills .nav-link.active, .nav-pills .show > .nav-link {
-  color: #fff;
-  background-color: #1b6ec2;
-  border-color: #1861ac;
+body
+{
+    font-size: 100%;
+	color:white;
+	margin-left:8em;
+	margin-right:8em;
+	background-color: rgb(255,253,208);
+	font-family:sans-serif;
+	line-height:1.5em;
+	font-size: 1.4em;
+}
+p ,nav{
+	color:rgb(168, 126, 101);
+	padding:0px 2px 0px 5px;
 }
 
-/* Sticky footer styles
--------------------------------------------------- */
-html {
-  font-size: 14px;
-}
-@media (min-width: 768px) {
-  html {
-    font-size: 16px;
-  }
+
+img 
+{
+	border: 0;
+	width:230px;
+	margin-left:374px;
+
 }
 
-.border-top {
-  border-top: 1px solid #e5e5e5;
+blockquote{
+	color:rgb(64, 194, 156);
 }
-.border-bottom {
-  border-bottom: 1px solid #e5e5e5;
-}
-
-.box-shadow {
-  box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05);
+blockquote:after {                                                       
+  content: close-quote;
 }
 
-button.accept-policy {
-  font-size: 1rem;
-  line-height: inherit;
+blockquote:before {                                     
+  content: open-quote;
 }
 
-/* Sticky footer styles
--------------------------------------------------- */
-html {
-  position: relative;
-  min-height: 100%;
-}
-
-body {
-  /* Margin bottom by footer height */
-  margin-bottom: 60px;
-}
-.footer {
-  position: absolute;
-  bottom: 0;
-  width: 100%;
-  white-space: nowrap;
-  line-height: 60px; /* Vertically center the text there */
+footer{
+	text-align: center;
+	background-color: bisque;
 }

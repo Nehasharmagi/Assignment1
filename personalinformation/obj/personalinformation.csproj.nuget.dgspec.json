@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\dell\\Desktop\\New folder\\Assignment1\\personalinformation\\personalinformation.csproj": {}
+    "C:\\Users\\dell\\Desktop\\New folder\\Assignment1\\PersonalInformation\\personalinformation.csproj": {}
   },
   "projects": {
-    "C:\\Users\\dell\\Desktop\\New folder\\Assignment1\\personalinformation\\personalinformation.csproj": {
+    "C:\\Users\\dell\\Desktop\\New folder\\Assignment1\\PersonalInformation\\personalinformation.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dell\\Desktop\\New folder\\Assignment1\\personalinformation\\personalinformation.csproj",
+        "projectUniqueName": "C:\\Users\\dell\\Desktop\\New folder\\Assignment1\\PersonalInformation\\personalinformation.csproj",
         "projectName": "personalinformation",
-        "projectPath": "C:\\Users\\dell\\Desktop\\New folder\\Assignment1\\personalinformation\\personalinformation.csproj",
+        "projectPath": "C:\\Users\\dell\\Desktop\\New folder\\Assignment1\\PersonalInformation\\personalinformation.csproj",
         "packagesPath": "C:\\Users\\dell\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\dell\\Desktop\\New folder\\Assignment1\\personalinformation\\obj\\",
+        "outputPath": "C:\\Users\\dell\\Desktop\\New folder\\Assignment1\\PersonalInformation\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\dell\\AppData\\Roaming\\NuGet\\NuGet.Config"
